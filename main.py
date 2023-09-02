@@ -1,0 +1,2 @@
+name = "Prem";
+print(name)
