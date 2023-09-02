@@ -1,4 +1,4 @@
 # newproject
 This is a new project.
 <br>
-Author - Prem Sagar
+Author - Prem Sagar (Apna College)
